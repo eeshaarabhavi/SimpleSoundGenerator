@@ -34,3 +34,16 @@ The Raspberry Pi was connected by connecting wires and then soldering them onto 
 Complete Setup:
 ![IMG_7969_Original](https://user-images.githubusercontent.com/56767468/103710033-fa152f80-4f81-11eb-8aeb-b77d4a0e0590.jpg)
 
+<!-- CHALLENGES FACED -->
+## Challenges Faced
+Because my peers and I were freshmen taking introductory Computer Science / Computer Engineering classes at the time of the hackathon, we ran into a few issues. 
+
+One of the issues was that we could not figure out how to get the buttons to work correctly. It was our first time working with a breadboard and Raspberry Pi. We could not figure out how to correctly affix the buttons to the breadboard on our own so we asked a mentor to help us out. In the end, our project ended up working as intended.
+
+Another issue that we ran into was we had limited amount of time to code the project as we spent most of the Hackathon timing looking for a way to integrate software and hardware so that our Computer Science teammate could have something to help us with. 
+
+<!-- WHAT WE COULD DO DIFFERENTLY LATER -->
+## Possible Things we Can Do / Add to the Existing Project
+
+Something we could do in the future is possibly making a large extensive database of sounds so that we can make the sounds that are outputted more random. We could also make an app so that the user can upload their own sounds to the database by the use of an app. 
+
