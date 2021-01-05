@@ -14,6 +14,8 @@ We wanted to make a simple program so when a button labeled happy, neutral or sa
 The following is a list of physical elements that were used to help this project come to life:
   - breadboard 
   - simple buttons
+  - resistors
+  - jumpers
   - wires
   - speaker
   - Raspberry Pi
