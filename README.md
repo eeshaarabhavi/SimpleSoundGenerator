@@ -1,4 +1,4 @@
-# VineGenerator
+# Simple Sound Generator
 
 <!-- PURPOSE -->
 ## Purpose of the Project
