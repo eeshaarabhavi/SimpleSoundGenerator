@@ -31,5 +31,6 @@ The Raspberry Pi was connected by connecting wires and then soldering them onto 
 
 ![IMG_1286](https://user-images.githubusercontent.com/56767468/103710032-f97c9900-4f81-11eb-9939-018be78fb357.jpg)
 
+Complete Setup:
 ![IMG_7969_Original](https://user-images.githubusercontent.com/56767468/103710033-fa152f80-4f81-11eb-8aeb-b77d4a0e0590.jpg)
 
